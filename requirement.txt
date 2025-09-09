@@ -1,0 +1,8 @@
+** Library which is require to install for this project.
+
+
+streamlit
+yfinance
+pandas
+plotly
+ta
